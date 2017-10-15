@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Thinkful Express/Node Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirivatd/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirivatd/blog/issues"
+  },
+  "homepage": "https://github.com/sirivatd/blog#readme",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  }
+}
